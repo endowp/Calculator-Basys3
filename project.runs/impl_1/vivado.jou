@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec 16 22:41:17 2020
+# Process ID: 5484
+# Current directory: D:/Endo/year3-1/HW Sys Lab/project/project.runs/impl_1
+# Command line: vivado.exe -log main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source main.tcl -notrace
+# Log file: D:/Endo/year3-1/HW Sys Lab/project/project.runs/impl_1/main.vdi
+# Journal file: D:/Endo/year3-1/HW Sys Lab/project/project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source main.tcl -notrace

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec 18 15:49:59 2020
+# Process ID: 12880
+# Current directory: D:/Endo/year3-1/HW Sys Lab/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9484 D:\Endo\year3-1\HW Sys Lab\project\project.xpr
+# Log file: D:/Endo/year3-1/HW Sys Lab/project/vivado.log
+# Journal file: D:/Endo/year3-1/HW Sys Lab/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Endo/year3-1/HW Sys Lab/project/project.xpr}
+update_compile_order -fileset sources_1

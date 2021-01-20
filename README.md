@@ -1,7 +1,7 @@
 # Hardware System Lab project, 2020
-Basic calculator system implemented on Basys 3, using Verilog.
+Basic calculator system implemented on Basys 3
 
-### Requirement
+### Requirements
 - Basys 3 Artix-7 FPGA Board
 - Xilinx Vivado
 - Tera Term
